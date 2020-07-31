@@ -8,6 +8,5 @@ These print files are suitable for FYSETC prusa MK3S 3D printer. The two parts a
 2.Prusa MK3S assembly tutorial  
 <https://help.prusa3d.com/en/category/original-prusa-i3-mk3s-kit-assembly_280>
 
-
-3.Prusa MK3S knowledge base
+3.Prusa MK3S knowledge base  
 <https://help.prusa3d.com/en/tag/mk3s/>
