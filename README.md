@@ -11,7 +11,7 @@ These print files are suitable for FYSETC prusa MK3S 3D printer. The two parts a
 3.Prusa MK3S knowledge base  
 <https://help.prusa3d.com/en/tag/mk3s/>
 
-4.Prusa MK3S assembly tutorial update 2020.9.4
+4.Prusa MK3S assembly tutorial update 2020.8.3  
 The tutorial is very detailed. We also provide a video assembly tutorial. It is more convenient to use the two tutorials together，divided into 5 steps:
 
 https://youtu.be/e2qvbB0Xqfg
