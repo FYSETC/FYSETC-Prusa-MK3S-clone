@@ -79,7 +79,7 @@ We also provide the compiled firmware on github, copy the following address to t
 
 https://github.com/FYSETC/FYSETC-Prusa-MK3S-clone/blob/master/Prusa.mk3s%2B_3.12.rc1_add_brightness.hex
 
-#### 1. Hardware Method :
+#### 2. Hardware Method :
 
 Replace T1 with a transistor BC817 or BC847 and other compatible NPN transistors. Versions before 2021 may also need to replace R3 with a 100R resistor.
 
