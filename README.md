@@ -14,7 +14,7 @@ https://www.thingiverse.com/thing:4728793
 <https://help.prusa3d.com/en/tag/mk3s/>
 
 4.Prusa MK3S assembly tutorial update 2020.8.3  
-The tutorial is very detailed. We also provide a video assembly tutorial. It is more convenient to use the two tutorials together，divided into 5 steps:
+The tutorial is very thorough and well explained. We also provide a video tutorial for the assembly process. It is advisable to check both tutorials as you build，below you can watch the video tutorial divided into 5 parts:
 
 https://youtu.be/e2qvbB0Xqfg
 
@@ -34,11 +34,11 @@ https://youtu.be/UVHUfH4zhIA
 
 ### Phenomenon:
 
-Originally, there would be a brightness menu under the setting to adjust the screen backlight, but in fact there is no;
+Originally, there would be a brightness menu under the setting to adjust the screen backlight, but in fact there isn't;
 
 ### Reason:
 
-In order to be more stable during the production of the 2004 screen, the hardware replaced the triode (BC817) that controls the backlight with a MOS tube (AO3400); The brightness menu will only be opened when it is low, so many people who use this screen do not see the brightness menu.
+In order to be more stable during the production of the 2004 screen, we upgraded the triode (BC817) that controls the backlight with a MOS tube (AO3400); The brightness menu will only be available when it is in a low state, so many people who use this screen do not see the brightness menu.
 
 ### Solution:
 
@@ -81,6 +81,6 @@ https://github.com/FYSETC/FYSETC-Prusa-MK3S-clone/blob/master/Prusa.mk3s%2B_3.12
 
 #### 2. Hardware Method :
 
-Replace T1 with a transistor BC817 or BC847 and other compatible NPN transistors. Versions before 2021 may also need to replace R3 with a 100R resistor.
+Replace T1 with a transistor BC817 or BC847 and other compatible NPN transistors. Screens versions produced before 2021 may also need to replace R3 with a 100R resistor.
 
 ![image-20221229175345343](/image-20221229175345343.png)
