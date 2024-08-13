@@ -1,5 +1,5 @@
-# FYSETC-Prusa-MK3S-clone
-FYSETC Prusa MK3S clone Kit Database
+# FYSETC-Prusa-MK3S+-clone
+FYSETC Prusa MK3S+ clone Kit Database
 
 ![image-Prusa MK3S](/Prusa_MK3S.jpg)
 1.Prusa MK3S STL file update 2020.7.10
@@ -7,13 +7,13 @@ These print files are suitable for FYSETC prusa MK3S 3D printer. Compared with t
 You can also get it here：
 https://www.thingiverse.com/thing:4728793
 
-2.Prusa MK3S assembly tutorial  
-<https://help.prusa3d.com/en/category/original-prusa-i3-mk3s-kit-assembly_280>
+2.Prusa MK3S+ assembly tutorial  
+<https://help.prusa3d.com/category/original-prusa-i3-mk3s-kit-assembly_1128>
 
-3.Prusa MK3S knowledge base  
-<https://help.prusa3d.com/en/tag/mk3s/>
+3.Prusa MK3S+ knowledge base  
+<https://help.prusa3d.com/en/tag/mk3s+/>
 
-4.Prusa MK3S assembly tutorial update 2020.8.3  
+4.Prusa MK3S+ assembly tutorial update 2020.8.3  
 The tutorial is very thorough and well explained. We also provide a video tutorial for the assembly process. It is advisable to check both tutorials as you build，below you can watch the video tutorial divided into 5 parts:
 
 https://youtu.be/e2qvbB0Xqfg
